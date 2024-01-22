@@ -19,3 +19,8 @@ This repository contains the practice code for the labs in **IBM-CD0215EN-Skills
 John Rofrano, Senior Technical Staff Member, DevOps Champion, @ IBM Research
 
 ## <h3 align="center"> © IBM Corporation 2022. All rights reserved. <h3/>
+
+
+## IBM Coursera course - Continuous Integration and Continuous Delivery (CI/CD) - LAB Practice
+Practice to build a workflow in a GitHub repository using GitHub Actions.
+Generate .github/workflows folder and workflow.yml
