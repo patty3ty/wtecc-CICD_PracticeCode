@@ -22,5 +22,5 @@ John Rofrano, Senior Technical Staff Member, DevOps Champion, @ IBM Research
 
 
 ## IBM Coursera course - Continuous Integration and Continuous Delivery (CI/CD) - LAB Practice
-Practice to build a workflow in a GitHub repository using GitHub Actions.
-Generate .github/workflows folder and workflow.yml
+- Practice to build a workflow in a GitHub repository using GitHub Actions.
+- Generate .github/workflows folder and workflow.yml
